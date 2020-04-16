@@ -1,9 +1,9 @@
-Origin: 薛定谔的猫源
+Origin: 爱丽丝源
 Label: Tccpg
 Suite: stable
 Version: 1.7
-Codename: Tccpg
+Codename: Alice
 Architectures: iphoneos-arm
 Components: main
-Description: 薛定谔的猫源
+Description: 爱丽丝源
 
