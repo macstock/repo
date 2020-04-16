@@ -1,0 +1,20 @@
+Package: applist
+Version: 1.5.15
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Filename: ./debs/applist_1.5.15_iphoneos-arm.deb
+Size: 105398
+MD5sum: 5406fec8b03762a594e526f2a332e4ff
+SHA1: aaf3cf696d0e528615793fac516f0f354c16aaef
+SHA256: 7b11b4ddb1079466c6aaabe5cc0a319999f60f0a22d4907f72ba3f88cbdaf96b
+Section: System
+Description: Allow extensions to read the list of installed apps
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Dev: rpetrich
+Name: AppList
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+
